@@ -5,4 +5,4 @@ Using Keras library with TensorFlow backend
 
 - Convolutional Neural Networks
 
-Visual representation of procedure: http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+  Visual representation of procedure: http://scs.ryerson.ca/~aharley/vis/conv/flat.html
