@@ -1,5 +1,5 @@
 # Deep-Machine-Learning
- ! Using Keras library
+Using Keras library
 
 - Artificial Neural Networks
 - Convolutional Neural Networks
